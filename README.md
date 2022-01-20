@@ -1,1 +1,1 @@
-# symfony5-start
+# s5-start
